@@ -6,7 +6,9 @@ import Footer from '../footer';
 const MainLayout = () => (
   <Fragment>
     <Header />
+
     <ContentWrapper />
+    
     {/* <Footer /> */}
   </Fragment>
 )
